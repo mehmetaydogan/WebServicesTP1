@@ -17,7 +17,7 @@ import javax.persistence.Temporal;
 
 /**
  *
- * @author edou
+ * @author Fatima/Mehmet
  */
 @Entity
 public class Auteur extends Personne implements Serializable {
